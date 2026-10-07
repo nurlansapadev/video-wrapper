@@ -19,12 +19,16 @@ secret history, espionage documentary, covert operations history
 | Операция | covert operation, secret operation, CIA operation, intelligence operation, tradecraft |
 | Мелкая сошка | ordinary people history, butterfly effect history, small player big impact, forgotten history |
 
-## Хэштеги
-Не используем.
+## Хэштеги (решение Nurlan, 07.10.2026)
+**Используем.** 3 штуки — **последней строкой описания**, после `video_credits_text.txt`. YouTube показывает первые три над названием.
+Состав: 2 по теме эпизода (имя / явление) + 1 канальный `#HonestLies`.
 
 ## Публикация
 - Суббота, 19:00–22:00 Бишкек, по умолчанию 20:00 (Schedule)
 - Аудитория: **не для детей**
+- Категория: **Education** (Nurlan, 07.10.2026)
+- Плейлист: пока не используем
 - Язык: English
 - Конечная заставка: следующий/прошлый эпизод + подписка — после финальной фразы и монтажной тишины, не поверх
 - Карточка — на прошлый эпизод, если он упомянут
+- **Закреплённый комментарий — обязателен** в каждом эпизоде (Nurlan, 07.10.2026): вопрос зрителю по теме, без ответа и без «подпишитесь». Финал — `output/pinned_comment.txt`.

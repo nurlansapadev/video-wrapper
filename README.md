@@ -10,7 +10,7 @@
 
 ## Claude Code (локально)
 
-Папка: `D:\YouTube-Studio\claude_projects\video-wrapper`. Сценарий, рендер, кадры кладите в `channels/<канал>/episodes/ep-NN/input/`. Claude сам ведёт `status.md` и артефакты.
+Папка: `D:\YouTube-Studio\claude_projects\video-wrapper`. brief, VO (`*whisper*.json`), en-script кладите в `channels/<канал>/episodes/ep-NN/input/` (фото — по запросу в `input/refs/`). Claude ведёт `status.md`, результаты к загрузке — в `output/`.
 
 ## Claude web (claude.ai)
 

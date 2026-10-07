@@ -1,7 +1,7 @@
 # description.md — Honest Lies · EP-04
 
 > Артефакт шага 5. Описание одно на обе пары A/B. Главы — заглушка до шага 6. Конец — `video_credits_text.txt` дословно.
-> ✅ Утверждено целиком (Nurlan, 07.10.2026), главы сверены по ролику. Готовый к загрузке текст — `output/description_v3.txt`.
+> ✅ Утверждено целиком (Nurlan, 07.10.2026), главы сверены по ролику. Готовый к загрузке текст — `output/description_v4.txt`.
 
 ```
 Everyone remembers the French warship that sailed out of New York with de Gaulle's gold. No archive has a record of it.
@@ -24,6 +24,9 @@ CHAPTERS
 16:40 One last thing about that warship
 
 —
+Honest Lies - ep-04
+
+Honest Lies - ep-04
 
 Built from open sources you can check yourself — nothing made up. Images thanks to Wikimedia Commons, Pixabay and Unsplash.
 Engraving-style illustrations are reconstructions, not photographs — used only where no archival image exists. Music created with Suno.
@@ -39,3 +42,4 @@ de Gaulle · gold warship · Bretton Woods · gold standard · Federal Reserve v
 ## История
 - 07.10.2026 — первый вариант тела (пересказ: 1931, Vide-Gousset, 400 т, Блессинг, «read the fine print») отклонён Nurlan: раскрывает сценарий. Заменён абзацем ключевых слов.
 - 07.10.2026 — v2: + хэштеги. v3: анти-академичность — тело переписано разговорно (было «This film goes back to the paperwork…» — аннотация), главы 0:00, 0:43, 7:43 вместо описательных.
+- 07.10.2026 — v4: строка `Honest Lies - ep-04` перед кредитами (метка эпизода).

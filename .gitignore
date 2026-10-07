@@ -1,0 +1,10 @@
+# медиа эпизодов — не в git (тяжёлые)
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.aaf
+*.psd
+# служебное
+.DS_Store
+Thumbs.db

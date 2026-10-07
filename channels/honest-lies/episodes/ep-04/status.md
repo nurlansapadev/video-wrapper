@@ -9,8 +9,8 @@
 | 2. Обещание | ✅ | вариант 1 |
 | 3. Название | ✅ | две пары для A/B — `output/title.md` |
 | 4. Обложка | ✅ | «Синяя ночь» v1: пара 1 `output/thumb-blue-night-p1.jpg`, пара 2 `output/thumb-blue-night-p2.jpg`; другие стили — не делали |
-| 5. Описание | ✅ | `output/description_v2.txt` (к загрузке; v2 = + хэштеги) · `output/description.md` (откуда факты, история) |
-| 6. Главы | ✅ | 10 глав, сверены (5:52, 16:40 совпали) — в `output/description_v2.txt` |
+| 5. Описание | ✅ | `output/description_v3.txt` (к загрузке; v3 = анти-академичность) · `output/description.md` (откуда факты, история) |
+| 6. Главы | ✅ | 10 глав, сверены (5:52, 16:40 совпали) — в `output/description_v3.txt` |
 | 7. Метаданные | ✅ | `output/metadata.md`: хэштеги ✅ · комментарий ✅ `output/pinned_comment.txt` · Education · без плейлиста · A/B ✅ · теги ✅ `output/tags_v1.txt` |
 | 8. Проверка / публикация | ⏳ | чек-лист пройден; ждём дату, загрузку и паспорт |
 

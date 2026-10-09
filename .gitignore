@@ -10,3 +10,5 @@
 Thumbs.db
 # фото и промежуточные генерации обложек — не в git (тяжёлые); финальные обложки — в output/
 channels/*/episodes/*/input/refs/
+# настройки IDE
+.idea/

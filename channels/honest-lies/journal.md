@@ -8,12 +8,22 @@
 
 | Эп. | Дата | Название | Текст обложки | Ссылка | CTR 7д | Просмотры 30д | A/B |
 |---|---|---|---|---|---|---|---|
-| 01 | 23.06.2026 | Americans Murdered in Tehran. CIA Buried Why. \| IBEX | — (off-brand, vidIQ) | https://youtu.be/u8RMhHce1_E | | | |
-| 02 | 11.07.2026 | {уточнить} — Henry Blodget / dot-com | — | https://youtu.be/L0OfDCHa04Y | | | |
-| 03 | {уточнить} | The Blind Man Who Found Adolf Eichmann \| Buenos Aires, 1960 | NOBODY WAS LOOKING | {вписать} | | | |
-| 04 | 12.09.2026 | The Warship Full of a Nation's Gold | {уточнить} | {вписать} | | | |
-| 05 | 03.10.2026 | How Two Stories Helped Sell Two Wars \| Iraq 1990 & 2003 | SAME TRICK TWICE | {вписать} | | | |
+| 01 | 23.06.2026 | Americans Murdered in Tehran. CIA Buried Why \| IBEX | — (off-brand, vidIQ) | https://youtu.be/u8RMhHce1_E | | | |
+| 02 | 11.07.2026 | Wall Street's Biggest Lie Cost Investors Everything | {уточнить} | https://youtu.be/L0OfDCHa04Y | | | |
+| 03 | 04.09.2026 | The Blind Man Who Found Adolf Eichmann \| Buenos Aires, 1960 | FOUND IN HIDING | https://youtu.be/ypEjriCWEYc | | | |
+| 04 | 12.09.2026 | The Warship Full of a Nation's Gold → **замена упаковки** (A/B: Did De Gaulle / Did France Really Send a Warship for Gold?) | было SECRET SHIPMENT? → IT NEVER SAILED / WRONG DIRECTION | https://youtu.be/nU_oVxy_2VQ | | | ⏳ идёт с ~08.10, 3 варианта (оригинал — контроль) |
+| 05 | 03.10.2026 | How Two Stories Helped Sell Two Wars \| 1990 & 2003 (A/B: Why Colin Powell Held Up a Vial \| Iraq 1990 & 2003) | MANUFACTURED WARS? | https://youtu.be/srWLE5AF04k | | | ⏳ названия, до ~17.10 |
 | 06 | в работе | | | | | | |
+
+### Снимок 09.10.2026 (за всю жизнь канала) — подробно `snapshots/2026-10-09.md`
+| Эп. | Показы | CTR | Просмотры | Ср. просмотр (% досмотра) | Подп. |
+|---|---|---|---|---|---|
+| 01 | 46 | 2,17 % | 2 | 0:02 (0,2 %) | 0 |
+| 02 | 39 | 0 % | 2 | 0:45 (4,5 %) | 0 |
+| 03 | 1 016 | 0,89 % | 22 | 3:33 (13 %) | 0 |
+| 04 | 137 | 1,46 % | 13 | 0:55 (5 %) | 0 |
+| 05 | 1 067 | 0,94 % | 17 | 7:00 (38 %) | 1 |
+| Канал | 2 315 | 0,99 % | 59 | 3,29 ч всего | +1 |
 
 ## Эпизоды
 

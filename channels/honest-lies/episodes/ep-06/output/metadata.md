@@ -2,7 +2,15 @@
 
 > Артефакт шага 7. Теги — финал после vidIQ → `output/tags_v1.txt`.
 
-## Теги — черновик упаковщика (417 знаков) — ждёт цикла vidIQ
+## Теги ✅ финал после vidIQ (287 знаков, 10.10.2026) → `output/tags_v1.txt`
+```
+morris chang story,tsmc,taiwan semiconductor,taiwan chips,chip war,morris chang,silicon shield,tsmc history,taiwan chip industry,taiwan relations act,nvidia chips,economic history,technology race,butterfly effect history,secret history,deception history,propaganda history,tsmc explained
+```
+- Удалены по vidIQ (оценка): semiconductor history (21), why taiwan makes chips (31), rca semiconductors (0), real men have fabs (0), technology theft (21), stolen technology (23), small player big impact (0)
+- Добавлены по vidIQ: morris chang story (64), tsmc explained (63)
+- Оценки оставшихся: tsmc 65, economic history 67, tsmc history 63, остальные 52–59 · общая 100
+
+## Теги — черновик упаковщика (417 знаков)
 Точные (эпизод): tsmc, taiwan semiconductor, taiwan chips, chip war, morris chang, silicon shield, tsmc history, semiconductor history, taiwan chip industry, why taiwan makes chips, rca semiconductors, taiwan relations act, real men have fabs, nvidia chips
 Тематические (шаблоны «Кража / технологии» + «Мелкая сошка»): technology theft, stolen technology, economic history, technology race, butterfly effect history, small player big impact
 Базовые канала (подходящие): secret history, deception history, propaganda history
@@ -11,6 +19,10 @@
 ```
 tsmc, taiwan semiconductor, taiwan chips, chip war, morris chang, silicon shield, tsmc history, semiconductor history, taiwan chip industry, why taiwan makes chips, rca semiconductors, taiwan relations act, real men have fabs, nvidia chips, technology theft, stolen technology, economic history, technology race, butterfly effect history, small player big impact, secret history, deception history, propaganda history
 ```
+
+## Оценки vidIQ при загрузке (10.10.2026)
+- Название: пара 1 — 95, пара 2 — 87 · Описание — 100 · Теги — 100
+- Прогноз 14 дней: 20–201 просмотр (80% диапазон), типично ~63; «лучше 4 из 5 последних загрузок»
 
 ## Из настроек канала (не спрашиваем)
 - Категория — Education · Аудитория — не для детей · Язык — English · Плейлист — нет

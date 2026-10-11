@@ -13,7 +13,7 @@
 | 03 | 04.09.2026 | The Blind Man Who Found Adolf Eichmann \| Buenos Aires, 1960 | FOUND IN HIDING | https://youtu.be/ypEjriCWEYc | | | |
 | 04 | 12.09.2026 | The Warship Full of a Nation's Gold → **замена упаковки** (A/B: Did De Gaulle / Did France Really Send a Warship for Gold?) | было SECRET SHIPMENT? → IT NEVER SAILED / WRONG DIRECTION | https://youtu.be/nU_oVxy_2VQ | | | ⏳ идёт с ~08.10, 3 варианта (оригинал — контроль) |
 | 05 | 03.10.2026 | How Two Stories Helped Sell Two Wars \| 1990 & 2003 (A/B: Why Colin Powell Held Up a Vial \| Iraq 1990 & 2003) | MANUFACTURED WARS? | https://youtu.be/srWLE5AF04k | | | ⏳ названия, до ~17.10 |
-| 06 | 10.10.2026 19:25 | How a Cheap Chip Became a Trump Card (A/B: Who Really Handed Taiwan the Chip Industry?) | $10 → $2 TRILLION | https://youtu.be/_-xTfuw3b8Y | | | названия, запущен |
+| 06 | 10.10.2026 19:21 | How a Cheap Chip Became a Trump Card (A/B: Who Really Handed Taiwan the Chip Industry?) | $10 → $2 TRILLION | https://youtu.be/_-xTfuw3b8Y | | | названия, запущен |
 
 ### Снимок 09.10.2026 (за всю жизнь канала) — подробно `snapshots/2026-10-09.md`
 | Эп. | Показы | CTR | Просмотры | Ср. просмотр (% досмотра) | Подп. |
@@ -30,7 +30,7 @@
 ### EP-06 — Taiwan / $10 breakfast / TSMC
 | Поле | Значение |
 |---|---|
-| Дата и время публикации | 10.10.2026, 19:25 Бишкек (UTC+6) = 09:25 ET, Public |
+| Дата и время публикации | 10.10.2026, 19:21 Бишкек = 09:21 ET (API: 06:20:57 PT), Public |
 | Ссылка | https://youtu.be/_-xTfuw3b8Y |
 | Длительность | 18:25 |
 | Название (как вышло) | How a Cheap Chip Became a Trump Card |
@@ -46,7 +46,7 @@
 | Прогноз vidIQ при загрузке | 14 дней: 20–201 просмотр, типично ~63; «лучше 4 из 5 последних» |
 | Метрики 7 дней | (с 17.10.2026) |
 | Метрики 30 дней | (с 09.11.2026) |
-| Заметки | Загружено как в `output/`; единственное изменение — теги по vidIQ (см. выше). |
+| Заметки | Загружено как в `output/`, кроме: теги по vidIQ (см. выше); хэштеги — 4: `#Taiwan #TSMC #ChipWar #HonestLies` (#Taiwan добавлен Nurlan; над названием видны первые три, #HonestLies — нет). Через 13 ч: 0 показов, 0 просмотров; видео Public, crawlable, family safe, доступно во всех странах (проверено по API 11.10.2026). |
 
 ## Уроки канала
 - **08.09.2026** — Обложка выведена из-под правил гравюры: в ноготке гравюра — серое пятно. Обложка EP-01 была off-brand именно поэтому.

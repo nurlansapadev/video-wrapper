@@ -22,3 +22,7 @@
 - Не биографии, не конспирология
 - Не «Америка №1» и не «Америка плохая» — честная середина
 - Не партийный: ни в ролике, ни в упаковке
+
+## Где производство (входы эпизода)
+- Эпизоды: `D:\YouTube-Studio\claude_projects\honest-lies\episodes\ep-NN-<slug>\` — `brief.md`, `en-script-final.md`, `vo-whisper.json`, `udochka.md` (тизер следующего эпизода), `shots/` (`characters.json` — кто разрешён к генерации).
+- Финальный рендер: `D:\YouTube-Studio\production\honest-lies\final\NN_<Name>.mp4`.

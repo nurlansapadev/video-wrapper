@@ -12,6 +12,8 @@
 | «Синяя ночь» | `styles/blue-night.md` | активен · приоритет 1 | EP-05 (MANUFACTURED WARS?) | 07.10.2026 |
 | «Стальное досье» | `styles/steel-dossier.md` | активен | EP-03 (FOUND IN HIDING) | 07.10.2026 |
 | «VisualVenture стайл» | `styles/visual-venture.md` | активен | 5 обложек @VisualVenture (в файле стиля) | 07.10.2026 |
+| «Рашоян стиль» | `styles/rashoyan-style.md` | кандидат | обложка ролика Рашояна https://youtu.be/Kus2ItbxOtg + его уроки (`knowledge/digests/2026-10-12-rashoyan-thumbnail-rules.md`) | 12.10.2026 |
+| «Рашоян-Honest Lies» | `styles/rashoyan-honest-lies.md` | кандидат · производный от «Рашоян стиль» · фон — бледно-синий туман | EP-07 p2 (`HE SAVED HIM?`) — эталон композиции | 16.10.2026 |
 
 **Эксперимент 07.10 – ~04.11.2026** (3–4 недели): гипотеза и вкус Nurlan. Итог — в `analytics.md`; не сработает — меняем подход.
 

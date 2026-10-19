@@ -4,8 +4,8 @@
 
 ## Главы
 
-- **С EP-08 главы даёт монтаж** — `06_montage/output/ep-N_chapters.txt` по рендеру; сверка с `00-script/render-whisper.json` (19.10.2026). Таймкоды — как есть, названия — проверить по тестам ниже.
-- **Есть финальный рендер, но нет глав и расшифровки** (решение 16.10.2026, EP-07): упаковщик сам расшифровывает в фоне — `ffmpeg -i <mp4> -vn -ac 1 -ar 16000 audio.wav` → `whisper audio.wav --model small --language en --word_timestamps True --output_format json` → `07_thumbnail/work/render-whisper.json` (~15–20 мин на CPU за 20 мин видео), таймкоды тактов ищет по первым словам. Точно, с учётом тизеров и вырезок.
+- **С EP-08 главы даёт монтаж** — `06_montage/output/ep-N_chapters.txt` из меток `[ГЛАВА]` (`plan.json` → `meta.chapters`). Таймкоды точные, сверка не нужна; названия — проверить по тестам ниже. Слова на шкале рендера, если нужны: `06_montage/output/ep-N-words.json` (`[{w, start, end}]`). Whisper никто не запускает повторно (договорённость с hl-script и VideoEditor, 19.10.2026; формат `plan.json` — контракт VideoEditor).
+- **Старые эпизоды: рендер есть, глав и расшифровки нет** (решение 16.10.2026, EP-07): упаковщик сам расшифровывает в фоне — `ffmpeg -i <mp4> -vn -ac 1 -ar 16000 audio.wav` → `whisper audio.wav --model small --language en --word_timestamps True --output_format json` → `07_thumbnail/work/render-whisper.json` (~15–20 мин на CPU за 20 мин видео), таймкоды тактов ищет по первым словам. Точно, с учётом тизеров и вырезок.
 - **Рендера нет** — по VO (таймкоды слов озвучки) + сдвиг монтажа, сверка двух глав в готовом ролике (`core/workflow.md`, шаг 6).
 - Первая глава — строго `0:00`. Минимум 3 главы, каждая ≥ 10 сек, по возрастанию — иначе YouTube их не покажет.
 - 6–12 глав на 15–30 минут.

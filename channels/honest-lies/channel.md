@@ -25,10 +25,10 @@
 
 ## Где производство (входы эпизода)
 - **С EP-08 — одна папка на всё:** `D:\YouTube-Studio\production\honest-lies\ep-N\` (без нуля: `ep-8`). Создаёт hl-script (`production/tools/new_episode.py`). Записка hl-script от 19.10.2026.
-  - `00-script\` — `brief.md` (сверху пара, с которой шёл сценарий; «чего нельзя обещать»; источники в формате описания), `en-script-final.md` (текст для описания и цитат), `render-whisper.json` (таймкоды по рендеру), `ep-summary.md` (ч. 8 — материалы публикации, ч. 9 — «если будешь менять упаковку»), `udochka.md`. Не для цитат: `11-labs-voice.txt` (фонетика). Не нужны: `ru-script-*`, `en-script-v*`, `sound-vo.md`.
+  - `00-script\` — `brief.md` (сверху пара, с которой шёл сценарий; раздел «Упаковка» — черновик упаковки и **«чего нельзя обещать» — только здесь**; источники в формате описания), `en-script-final.md` (текст для описания и цитат), `ep-summary.md` (ч. 8–9 — ссылки на brief), `udochka.md`. `render-whisper.json` с EP-09 не делается (в EP-08 есть, дублирует монтаж). Не для цитат: `11-labs-voice.txt` (фонетика). Не нужны: `ru-script-*`, `en-script-v*`, `sound-vo.md`.
   - `02_characters\` — `cast.json` (people / places / objects / countries, `face_policy`) + фото; `source_for_gen\` — исходники для перерисовки.
-  - `03_generated\`, `05_footage\` — кадры эпизода; `06_montage\media\` — все кадры, ушедшие в монтаж; `06_montage\work\contact.jpg` — контакт-лист.
-  - `06_montage\output\` — `ep-N_chapters.txt` (главы по рендеру), `ep-N_description.txt` (черновик описания: главы, источники, авторство, ИИ, музыка), `ep-N_credits.txt` (CC BY — обязательно в описание), `ep-N.srt`. Версии `06_montage\ep-N_vK.mp4` — только для сравнения.
-  - `07_thumbnail\` — **рабочая папка упаковщика**.
-  - `09_final_assets\ep-NN-final.mp4` — **ролик к загрузке**.
+  - `03_generated\` — **все генерации** эпизода (гравюры, Veo, ReGen `*-rg`, Gen `*-g`); `05_footage\` — архив и сток. `06_montage\media\` — жёсткие ссылки на те же файлы, оттуда не брать. `06_montage\work\contact.jpg` — контакт-лист всех кадров ролика.
+  - `06_montage\output\` — `ep-N_chapters.txt` (главы из меток `[ГЛАВА]`, точные), `ep-N-words.json` (слова на шкале рендера), `ep-N_description.txt` (сверху `[HOOK — Video-Wrapper]`, дальше главы, источники, авторство, ИИ, музыка — дословно), `ep-N_credits.txt` (чистый и полный, CC BY — обязательно в описание; поправки — `06_montage\credits_fix.json`), `ep-N_shotlist.json` (все кадры ролика с исходниками — для обложки), `ep-N.srt`. Не читать: `ep-N-shots.json` (пробелы для генераторов). Ответ VideoEditor от 19.10.2026. Версии `06_montage\ep-N_vK.mp4` — только для сравнения.
+  - `07_thumbnail\` — **рабочая папка упаковщика** (итерации).
+  - `09_final_assets\` — `ep-NN-final.mp4` (**ролик к загрузке**) + `v-1\`, `v-2\` … — финальные пакеты упаковщика, один на вариант A/B.
 - **До EP-07** — старая схема: сценарий в `D:\YouTube-Studio\claude_projects\honest-lies\episodes\ep-NN-<slug>\` или `production\honest-lies\ep-N\00-script\`, рендер — `production\honest-lies\final\NN_<Name>.mp4`; упаковка — `production\honest-lies\ep-N\07_thumbnail\`.

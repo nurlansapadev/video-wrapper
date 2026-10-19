@@ -6,15 +6,17 @@
 
 ## Сводка
 
-| Эп. | Дата | Название | Текст обложки | Ссылка | CTR 7д | Просмотры 30д | A/B |
-|---|---|---|---|---|---|---|---|
-| 01 | 23.06.2026 | Americans Murdered in Tehran. CIA Buried Why \| IBEX | — (off-brand, vidIQ) | https://youtu.be/u8RMhHce1_E | | | |
-| 02 | 11.07.2026 | Wall Street's Biggest Lie Cost Investors Everything | {уточнить} | https://youtu.be/L0OfDCHa04Y | | | |
-| 03 | 04.09.2026 | The Blind Man Who Found Adolf Eichmann \| Buenos Aires, 1960 | FOUND IN HIDING | https://youtu.be/ypEjriCWEYc | | | |
-| 04 | 12.09.2026 | The Warship Full of a Nation's Gold → **замена упаковки** (A/B: Did De Gaulle / Did France Really Send a Warship for Gold?) | было SECRET SHIPMENT? → IT NEVER SAILED / WRONG DIRECTION | https://youtu.be/nU_oVxy_2VQ | | | ⏳ идёт с ~08.10, 3 варианта (оригинал — контроль) |
-| 05 | 03.10.2026 | How Two Stories Helped Sell Two Wars \| 1990 & 2003 (A/B: Why Colin Powell Held Up a Vial \| Iraq 1990 & 2003) | MANUFACTURED WARS? | https://youtu.be/srWLE5AF04k | | | ⏳ названия, до ~17.10 |
-| 06 | 10.10.2026 19:21 | How a Cheap Chip Became a Trump Card (A/B: Who Really Handed Taiwan the Chip Industry?) | $10 → $2 TRILLION | https://youtu.be/_-xTfuw3b8Y | | | названия, запущен |
-| 07 | 16.10.2026 20:27 | A/B title+thumb: The FBI Said He Saved Rajiv Gandhi. Then They Locked Him Up. / Who Really Stopped the Plot to Kill Rajiv Gandhi in America? | A: $350 WAR SCHOOL · B: HE SAVED HIM? | https://youtu.be/i0B5Ce-6qBc | | | title+thumb (vidIQ), запущен |
+> Названия и тексты обложек — в `analyze/index.md` (единственная сводка упаковки). Здесь — дата, ссылка, метрики.
+
+| Эп. | Дата | Ссылка | CTR 7д | Просмотры 30д | A/B |
+|---|---|---|---|---|---|
+| 01 | 23.06.2026 | https://youtu.be/u8RMhHce1_E | | | |
+| 02 | 11.07.2026 | https://youtu.be/L0OfDCHa04Y | | | |
+| 03 | 04.09.2026 | https://youtu.be/ypEjriCWEYc | | | |
+| 04 | 12.09.2026 | https://youtu.be/nU_oVxy_2VQ | | | ⏳ идёт с ~08.10, 3 варианта (оригинал — контроль) |
+| 05 | 03.10.2026 | https://youtu.be/srWLE5AF04k | | | ⏳ названия, до ~17.10 |
+| 06 | 10.10.2026 19:21 | https://youtu.be/_-xTfuw3b8Y | | | названия, запущен |
+| 07 | 16.10.2026 20:27 | https://youtu.be/i0B5Ce-6qBc | | | title+thumb (vidIQ), запущен |
 
 ### Снимок 09.10.2026 (за всю жизнь канала) — подробно `snapshots/2026-10-09.md`
 | Эп. | Показы | CTR | Просмотры | Ср. просмотр (% досмотра) | Подп. |

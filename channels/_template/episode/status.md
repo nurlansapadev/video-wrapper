@@ -21,13 +21,24 @@
 - Папка эпизода: `D:\YouTube-Studio\production\<канал>\ep-N\`
 - en-script: — (`00-script/en-script-final.md`)
 - brief: — (`00-script/brief.md`) · нет — что лежит вместо (сводка эпизода и т. п.)
-- Таймкоды по рендеру: — (`00-script/render-whisper.json`) · главы монтажа: — (`06_montage/output/ep-N_chapters.txt`)
+- Главы монтажа: — (`06_montage/output/ep-N_chapters.txt`, точные) · слова на шкале рендера: `06_montage/output/ep-N-words.json`
+- «Чего нельзя обещать» и черновик упаковки: — (`00-script/brief.md`, раздел «Упаковка»)
+- Кадры ролика: — (`06_montage/output/ep-N_shotlist.json`, контакт-лист `06_montage/work/contact.jpg`; исходники — `03_generated/`, `05_footage/`)
 - Черновик описания / авторство: — (`06_montage/output/ep-N_description.txt`, `ep-N_credits.txt`)
 - Лица и объекты: — (`02_characters/cast.json`, `face_policy`) · недостающие фото — точечно на шаге 4.4 → `07_thumbnail/work/`
 - Видео: — (`09_final_assets/ep-NN-final.mp4`)
 
 ## Разбор
 —
+
+## Поле конкуренции (шаг 1)
+- Запросы: —
+- Соседи (поиск / Suggested): цвета, лица, текст, тип названия —
+- Чем отличаемся: —
+
+## Гипотеза эпизода (шаг 3)
+- Что проверяем: — · поверхность: — · метрика: — · как (A/B / сравнение с EP-…): —
+- Замеры: 48 ч — · 7 д — · 30 д — · **итог:** —
 
 ## Обещание
 —
@@ -47,4 +58,4 @@
 - Слой 1 (фон): промпт · результаты · выбран —
 - Слой 2 (объекты): фото · промпт · результаты · выбран —
 - Слой 3 (текст): пара 1 — промпт · выбран — · пара 2 — …
-- Итог: `07_thumbnail/thumb-<slug>-p1.jpg`, `-p2.jpg`
+- Итог: `07_thumbnail/thumb-<slug>-p1.jpg`, `-p2.jpg` → финал `09_final_assets/v-1/`, `v-2/`

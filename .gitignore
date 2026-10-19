@@ -8,7 +8,7 @@
 # служебное
 .DS_Store
 Thumbs.db
-# фото и промежуточные генерации обложек — не в git (тяжёлые); финальные обложки — в output/
-channels/*/episodes/*/input/refs/
+# фото, генерации и обложки — в производстве (ep-N/07_thumbnail/), не в репо
+channels/*/episodes/
 # настройки IDE
 .idea/

@@ -31,6 +31,19 @@
 
 Если скрин нечитаем или метрики нет — спросить, не угадывать.
 
+### Ask Studio — дополнительный источник (решение Nurlan, 18.10.2026)
+Кнопка **Ask Studio** в YouTube Studio — ИИ-помощник YouTube с доступом к данным канала. **Используем иногда**, как дополнение к выгрузкам, не вместо них.
+- **Когда:** при снимке канала — для того, чего нет в выгрузках: ориентиры по нише, CTR первых 2 дней, итоги A/B, данные, скрытые «недостатком данных».
+- **Как:** упаковщик даёт 1–3 вопроса **на английском**, по одному на пробел или гипотезу. Nurlan вставляет ответ в чат.
+- **Готовые вопросы:**
+  - `How does my thumbnail click-through rate compare to similar channels in my niche?`
+  - `What are the results of my A/B tests on "<title>"? Which title and thumbnail won?`
+  - `Which countries do my viewers come from? What share is the United States?` · `What age groups watch my long videos the most?`
+  - `Why do viewers leave in the first 30 seconds of "<video A>" but stay longer on "<video B>"?`
+  - `Which search terms bring viewers to my channel?`
+- **Доверие:** цифры из Ask Studio — сверять с выгрузками; общие советы — не правило, а повод проверить. Новое правило — только по нашим данным (уровни: наблюдение → гипотеза → подтверждено).
+- **Запись:** в `channels/<канал>/analytics.md` — раздел «Ask Studio» с датой, вопросом, выжимкой ответа и пометкой «совпадает с правилами / новое». На малом канале многие ответы — «not enough data»; это тоже фиксировать одной строкой.
+
 ### Как анализировать
 1. Записать цифры в `channels/<канал>/journal.md` (таблица эпизодов).
 2. Сравнить эпизоды между собой: **упаковка** (тип названия, текст обложки, объект) против **CTR**; **CTR** против **удержания 0:30** (высокий CTR + обвал на 0:30 = упаковка обещала не то).

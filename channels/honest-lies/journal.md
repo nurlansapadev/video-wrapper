@@ -14,7 +14,7 @@
 | 04 | 12.09.2026 | The Warship Full of a Nation's Gold → **замена упаковки** (A/B: Did De Gaulle / Did France Really Send a Warship for Gold?) | было SECRET SHIPMENT? → IT NEVER SAILED / WRONG DIRECTION | https://youtu.be/nU_oVxy_2VQ | | | ⏳ идёт с ~08.10, 3 варианта (оригинал — контроль) |
 | 05 | 03.10.2026 | How Two Stories Helped Sell Two Wars \| 1990 & 2003 (A/B: Why Colin Powell Held Up a Vial \| Iraq 1990 & 2003) | MANUFACTURED WARS? | https://youtu.be/srWLE5AF04k | | | ⏳ названия, до ~17.10 |
 | 06 | 10.10.2026 19:21 | How a Cheap Chip Became a Trump Card (A/B: Who Really Handed Taiwan the Chip Industry?) | $10 → $2 TRILLION | https://youtu.be/_-xTfuw3b8Y | | | названия, запущен |
-| 07 | 16.10.2026 20:27 | A/B title+thumb: The FBI Said He Saved Rajiv Gandhi. Then They Locked Him Up. / Who Really Stopped the Plot to Kill Rajiv Gandhi in America? | A: $350 WAR SCHOOL · B: HE SAVED HIM? | {ссылка} | | | title+thumb (vidIQ), запущен |
+| 07 | 16.10.2026 20:27 | A/B title+thumb: The FBI Said He Saved Rajiv Gandhi. Then They Locked Him Up. / Who Really Stopped the Plot to Kill Rajiv Gandhi in America? | A: $350 WAR SCHOOL · B: HE SAVED HIM? | https://youtu.be/i0B5Ce-6qBc | | | title+thumb (vidIQ), запущен |
 
 ### Снимок 09.10.2026 (за всю жизнь канала) — подробно `snapshots/2026-10-09.md`
 | Эп. | Показы | CTR | Просмотры | Ср. просмотр (% досмотра) | Подп. |
@@ -37,10 +37,10 @@
 | Название (как вышло) | How a Cheap Chip Became a Trump Card |
 | A/B | Test & Compare, Title only: (1) How a Cheap Chip Became a Trump Card — vidIQ 95 · (2) Who Really Handed Taiwan the Chip Industry? — vidIQ 87. Запущен 10.10.2026 |
 | Текст обложки | $10 → $2 TRILLION |
-| Файл обложки | `episodes/ep-06/output/thumb-blue-night-p1.jpg` — стиль «Синяя ночь» (синее сукно, фишки ↔ процессор) |
+| Файл обложки | `production/honest-lies/ep-6/07_thumbnail/thumb-blue-night-p1.jpg` — стиль «Синяя ночь» (синее сукно, фишки ↔ процессор) |
 | Описание — первые 2 строки | The chip in your iPhone was made in Taiwan, by one company: TSMC. It started over breakfast in a little Taipei shop in 1974, and the bill was pocket change. / Was it genius, or did Taiwan steal America's chip industry? The paperwork has its own answer. (vidIQ 100) |
 | Главы | ☑ 12 глав, по VO, сверены (8:30, 16:02) |
-| Теги (финал после vidIQ) | `episodes/ep-06/output/tags_v1.txt` — 18 тегов, vidIQ 100 |
+| Теги (финал после vidIQ) | `ep-6/07_thumbnail/tags_v1.txt` — 18 тегов, vidIQ 100 |
 | Теги удалены по vidIQ | semiconductor history (21), why taiwan makes chips (31), rca semiconductors (0), real men have fabs (0), technology theft (21), stolen technology (23), small player big impact (0) |
 | Плейлист · заставка · карточки | нет · Best for viewer + Subscribe, 18:14–18:24 · нет. Субтитры не добавлялись. Автоглавы/места/концепты — выключены |
 | Закреплённый комментарий | Had you ever heard the name Morris Chang before today? He built the company that makes the chip in your phone. — опубликован и закреплён (через Studio, без просмотра) |
@@ -57,10 +57,10 @@
 | Длительность | 19:39 (с тизером EP-08 «Greenxit», 19:17–19:35) |
 | Название (как вышло) | A/B, «Title and thumbnail» (vidIQ A/B Testing) |
 | A/B | A: The FBI Said He Saved Rajiv Gandhi. Then They Locked Him Up. + `$350 WAR SCHOOL` (vidIQ: название 94, обложка 45) · B: Who Really Stopped the Plot to Kill Rajiv Gandhi in America? + `HE SAVED HIM?` (97 / 70). Запущен 16.10.2026 |
-| Файлы обложек | `episodes/ep-07/output/thumb-rashoyan-honest-lies-p1.jpg` (слоями) · `-p2.jpg` (одним заходом) — стиль «Рашоян-Honest Lies», первый тест: герой с эмоцией (Кэмпер) + гравюра/фото Ганди, бледно-синий туман |
+| Файлы обложек | `production/honest-lies/ep-7/07_thumbnail/thumb-rashoyan-honest-lies-p1.jpg` (слоями) · `-p2.jpg` (одним заходом) — стиль «Рашоян-Honest Lies», первый тест: герой с эмоцией (Кэмпер) + гравюра/фото Ганди, бледно-синий туман |
 | Описание — первые 2 строки | The FBI took the credit for saving Rajiv Gandhi in 1985. The press release left out one detail: who actually built the trap. |
 | Главы | ☑ 12 глав, по расшифровке рендера (whisper) — точные |
-| Теги (финал после vidIQ) | `episodes/ep-07/output/tags_v2.txt` — 15 тегов, vidIQ 100 |
+| Теги (финал после vidIQ) | `ep-7/07_thumbnail/tags_v2.txt` — 15 тегов, vidIQ 100 |
 | Теги удалены по vidIQ | rajiv gandhi assassination plot, frank camper, thomas norris medal of honor, sikh plot 1985, reagan rajiv gandhi 1985, fbi sting operation, alabama mercenary camp, small player big impact (оценки не присланы) |
 | Хэштеги | `#India #Alabama #Vietnam #HonestLies` — первый эпизод с географией |
 | Плейлист · заставка · карточки | нет · {подтвердить: заставка после 19:35} · нет |

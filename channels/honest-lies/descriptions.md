@@ -1,6 +1,6 @@
 # descriptions.md — Описание: Honest Lies
 
-> Дополняет `core/descriptions.md`. Эталон — **EP-07** (`episodes/ep-07/output/description_v1.txt`), до него — EP-06.
+> Дополняет `core/descriptions.md`. Эталон — **EP-07** (`production/honest-lies/ep-7/07_thumbnail/description_v1.txt`), до него — EP-06.
 
 ## Шаблон
 ```

@@ -9,7 +9,7 @@
 | Голос / подача | **Arny** — 60-летний американец, бывший аудитор порта Нью-Йорка. Сухой деадпан, восхищается дерзостью схем, иронизирует над враньём, не морализирует, не партийный |
 | Формат | одна история за видео, 15–30 минут, безликий, голос ElevenLabs, гравюры + архив |
 | Расписание | решает Nurlan; упаковщик дату не предлагает |
-| Репозиторий производства | `D:\YouTube-Studio\claude_projects\honest-lies` · github.com/nurlansapadev/honest-lies. Финальный сценарий: `episodes/ep-NN-*/en-script-final.md`, досье: `brief.md` |
+| Репозиторий производства | `D:\YouTube-Studio\claude_projects\honest-lies` · github.com/nurlansapadev/honest-lies. Правила, память, план тем. **Артефакты эпизодов с EP-08 — не здесь, а в `production\honest-lies\ep-N\`** (см. «Где производство») |
 
 ## Что канал обещает зрителю
 «Как работает механика обмана — голосом американца с нью-йоркской пристани, который читает первоисточники, а не заголовки».
@@ -24,5 +24,11 @@
 - Не партийный: ни в ролике, ни в упаковке
 
 ## Где производство (входы эпизода)
-- Эпизоды: `D:\YouTube-Studio\claude_projects\honest-lies\episodes\ep-NN-<slug>\` — `brief.md`, `en-script-final.md`, `vo-whisper.json`, `udochka.md` (тизер следующего эпизода), `shots/` (`characters.json` — кто разрешён к генерации).
-- Финальный рендер: `D:\YouTube-Studio\production\honest-lies\final\NN_<Name>.mp4`.
+- **С EP-08 — одна папка на всё:** `D:\YouTube-Studio\production\honest-lies\ep-N\` (без нуля: `ep-8`). Создаёт hl-script (`production/tools/new_episode.py`). Записка hl-script от 19.10.2026.
+  - `00-script\` — `brief.md` (сверху пара, с которой шёл сценарий; «чего нельзя обещать»; источники в формате описания), `en-script-final.md` (текст для описания и цитат), `render-whisper.json` (таймкоды по рендеру), `ep-summary.md` (ч. 8 — материалы публикации, ч. 9 — «если будешь менять упаковку»), `udochka.md`. Не для цитат: `11-labs-voice.txt` (фонетика). Не нужны: `ru-script-*`, `en-script-v*`, `sound-vo.md`.
+  - `02_characters\` — `cast.json` (people / places / objects / countries, `face_policy`) + фото; `source_for_gen\` — исходники для перерисовки.
+  - `03_generated\`, `05_footage\` — кадры эпизода; `06_montage\media\` — все кадры, ушедшие в монтаж; `06_montage\work\contact.jpg` — контакт-лист.
+  - `06_montage\output\` — `ep-N_chapters.txt` (главы по рендеру), `ep-N_description.txt` (черновик описания: главы, источники, авторство, ИИ, музыка), `ep-N_credits.txt` (CC BY — обязательно в описание), `ep-N.srt`. Версии `06_montage\ep-N_vK.mp4` — только для сравнения.
+  - `07_thumbnail\` — **рабочая папка упаковщика**.
+  - `09_final_assets\ep-NN-final.mp4` — **ролик к загрузке**.
+- **До EP-07** — старая схема: сценарий в `D:\YouTube-Studio\claude_projects\honest-lies\episodes\ep-NN-<slug>\` или `production\honest-lies\ep-N\00-script\`, рендер — `production\honest-lies\final\NN_<Name>.mp4`; упаковка — `production\honest-lies\ep-N\07_thumbnail\`.
